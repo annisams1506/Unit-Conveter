@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68E79C55-A161-480C-B7BB-4E192F17C330}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>KP_KERJA_PROJEK.My.MyApplication</StartupObject>
+    <RootNamespace>KP_KERJA_PROJEK</RootNamespace>
+    <AssemblyName>KP KERJA PROJEK</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>KP KERJA PROJEK.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>KP KERJA PROJEK.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0D88BF2FF68451A83BCE5B1CB3C0A5C9F590FDB9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>KP KERJA PROJEK_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox2.Designer.vb">
+      <DependentUpon>AboutBox2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalImageResolution.Designer.vb">
+      <DependentUpon>DigitalImageResolution.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DigitalImageResolution.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MU.Designer.vb">
+      <DependentUpon>MU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemBilangan.Designer.vb">
+      <DependentUpon>SistemBilangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SistemBilangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UNITCONVERTERS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UNITCONVERTERS.Designer.vb">
+      <DependentUpon>UNITCONVERTERS.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanLuasHektare.Designer.vb">
+      <DependentUpon>SatuanLuasHektare.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanLuasHektare.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanFrekuensi.Designer.vb">
+      <DependentUpon>SatuanFrekuensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanFrekuensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanTekanan.Designer.vb">
+      <DependentUpon>SatuanTekanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanTekanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanEnergi.Designer.vb">
+      <DependentUpon>SatuanEnergi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanEnergi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanKecepatan.Designer.vb">
+      <DependentUpon>SatuanKecepatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanKecepatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="satuanpanjang.Designer.vb">
+      <DependentUpon>satuanpanjang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="satuanpanjang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanMassa.Designer.vb">
+      <DependentUpon>SatuanMassa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanMassa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanWaktu.Designer.vb">
+      <DependentUpon>SatuanWaktu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanWaktu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LuasMeterPersegi.Designer.vb">
+      <DependentUpon>LuasMeterPersegi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LuasMeterPersegi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VL.Designer.vb">
+      <DependentUpon>VL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VolumeMetrKubik.Designer.vb">
+      <DependentUpon>VolumeMetrKubik.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VolumeMetrKubik.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanSuhu.Designer.vb">
+      <DependentUpon>SatuanSuhu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanSuhu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SatuanDaya.Designer.vb">
+      <DependentUpon>SatuanDaya.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SatuanDaya.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox2.resx">
+      <DependentUpon>AboutBox2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigitalImageResolution.resx">
+      <DependentUpon>DigitalImageResolution.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MU.resx">
+      <DependentUpon>MU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemBilangan.resx">
+      <DependentUpon>SistemBilangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UNITCONVERTERS.resx">
+      <DependentUpon>UNITCONVERTERS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanLuasHektare.resx">
+      <DependentUpon>SatuanLuasHektare.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanFrekuensi.resx">
+      <DependentUpon>SatuanFrekuensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanTekanan.resx">
+      <DependentUpon>SatuanTekanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanEnergi.resx">
+      <DependentUpon>SatuanEnergi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanKecepatan.resx">
+      <DependentUpon>SatuanKecepatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="satuanpanjang.resx">
+      <DependentUpon>satuanpanjang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanMassa.resx">
+      <DependentUpon>SatuanMassa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanWaktu.resx">
+      <DependentUpon>SatuanWaktu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanWaktu.yo.resx">
+      <DependentUpon>SatuanWaktu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LuasMeterPersegi.resx">
+      <DependentUpon>LuasMeterPersegi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VL.resx">
+      <DependentUpon>VL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VolumeMetrKubik.resx">
+      <DependentUpon>VolumeMetrKubik.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanSuhu.resx">
+      <DependentUpon>SatuanSuhu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SatuanDaya.resx">
+      <DependentUpon>SatuanDaya.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KP KERJA PROJEK_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satuan-panjang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1990245.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19902451.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1990217.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19902171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-home-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-home-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-home-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-home-icon %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gamabar panjang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Konversi-satuan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-unit-of-measurement-conversion-of-units-a-real-met-5b29909bcf65a2.9363093515294506518495.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magni1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10035994-measurement-instrumentation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\com.dronzer.unitconverter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\59809.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tangga-Konversi-Satuan-Volume.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contoh-Soal-Konversi-Satuan-Volume-1024x390.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Konversi-Satuan-Volume.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titik didik dan titik beku.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tangga Ukuran Satuan Luas dalam are.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penggaris-png-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0017-Pencil-and-Ruler-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0017-Pencil-and-Ruler-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilograms.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilograms %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1048953.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-preferences-system-time-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square_meter_500977.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meter-lari-persegi-kubik-m-m2-m3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\construction-and-tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meter-lari-persegi-kubik-m-m2-m31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meter-lari-persegi-kubik-m-m2-m32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uds-volume-satu-liter-400x300p.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uds-1-cc-300p.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temperature-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-decibel-logo-isolated-on-white-background-png-image_736465.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perbedaan-Volt-Amper-Ohm-Dan-Watt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pollution.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square_meter_5009771.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menghitung-satuan-cc-menjadi-liter-dan-mili-liter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menghitung-satuan-cc-menjadi-liter-dan-mili-liter1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LITER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satuan-waktu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-line-sound-frequency-loudness-orange-sound-line-5aa350ed657410.1025984615206525254156.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip_image002_thumb[7].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manometer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beg4dj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b926b4e0ec2c1441e23380fc676ddf6c.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-speedometer-hd-vector-metal-png-and-vector-speedometer-png-260_261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Downloads-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green-energy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Science-Pressure-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beg4dj1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip_image002_thumb[7]1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beg4dj2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sistem bilangan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downloadd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System-Binary-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mata-uang-png-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2018_08_27_C-area_resolution-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simbol-valuta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binary %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binary-code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binary-code %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binary-code %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bytes-kilobyte-megabyte-representation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\512x512bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\megabyte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\megabyte %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\598091.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

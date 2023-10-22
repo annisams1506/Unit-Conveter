@@ -1,0 +1,76 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\yo\KP KERJA PROJEK.resources.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SistemBilangan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.UNITCONVERTERS.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanLuasHektare.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanFrekuensi.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanTekanan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanEnergi.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanKecepatan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.satuanpanjang.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanMassa.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanWaktu.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.LuasMeterPersegi.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.VolumeMetrKubik.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanSuhu.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanDaya.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.home.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanWaktu.yo.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\yo\KP KERJA PROJEK.resources.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.vbproj.ResolveComReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.DigitalImageResolution.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.MU.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.VL.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.AboutBox2.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.exe.config
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\Interop.WMPLib.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.vbproj.ResolveComReference.cache
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.exe
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.xml
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.pdb
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.AboutBox2.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.DigitalImageResolution.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.MU.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SistemBilangan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.UNITCONVERTERS.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanLuasHektare.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanFrekuensi.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanTekanan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanEnergi.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanKecepatan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.satuanpanjang.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanMassa.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanWaktu.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.LuasMeterPersegi.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.VL.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.VolumeMetrKubik.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanSuhu.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanDaya.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.home.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.Resources.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP_KERJA_PROJEK.SatuanWaktu.yo.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.vbproj.GenerateResource.Cache
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.exe.manifest
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.application
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.exe
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.pdb
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\KP KERJA PROJEK.xml
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\yo\KP KERJA PROJEK.resources.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\Interop.WMPLib.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\yo\KP KERJA PROJEK.resources.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.exe.manifest
+C:\Users\Annisa\Documents\Visual Studio 2012\KP KERJA PROJEK\KP KERJA PROJEK\obj\Debug\KP KERJA PROJEK.application

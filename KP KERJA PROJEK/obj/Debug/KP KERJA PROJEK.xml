@@ -1,0 +1,380 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KPKERJAPROJEK
+</name>
+</assembly>
+<members>
+<member name="P:KP_KERJA_PROJEK.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._0017_Pencil_and_Ruler_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._0017_Pencil_and_Ruler_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._10035994_measurement_instrumentation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._1048953">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._1990217">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._19902171">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._1990245">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._19902451">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._2018_08_27_C_area_resolution_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._512x512bb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._59809">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources._598091">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Apps_preferences_system_time_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.b926b4e0ec2c1441e23380fc676ddf6c">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.beg4dj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.beg4dj1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.beg4dj2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.binary">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.binary__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.binary_code">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.binary_code__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.binary_code__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.blue_home_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.blue_home_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.blue_home_icon__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.blue_home_icon__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.bytes_kilobyte_megabyte_representation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.clip_image002_thumb_7_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.clip_image002_thumb_7_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Close_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Close_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.com_dronzer_unitconverter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.construction_and_tools">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Contoh_Soal_Konversi_Satuan_Volume_1024x390">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.download4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.downloadd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Downloads_2_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.gamabar_panjang1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.green_energy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.kilograms">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.kilograms__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.kisspng_line_sound_frequency_loudness_orange_sound_line_5aa350ed657410_1025984615206525254156">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.kisspng_unit_of_measurement_conversion_of_units_a_real_met_5b29909bcf65a2_9363093515294506518495">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Konversi_satuan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Konversi_Satuan_Volume">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.l">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.LITER">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.magni1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.manometer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.mata_uang_png_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.megabyte">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.megabyte__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.menghitung_satuan_cc_menjadi_liter_dan_mili_liter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.menghitung_satuan_cc_menjadi_liter_dan_mili_liter1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.meter_lari_persegi_kubik_m_m2_m3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.meter_lari_persegi_kubik_m_m2_m31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.meter_lari_persegi_kubik_m_m2_m32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.penggaris_png_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Perbedaan_Volt_Amper_Ohm_Dan_Watt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.pngtree_decibel_logo_isolated_on_white_background_png_image_736465">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.pollution">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.pulse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.satuan_panjang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.satuan_waktu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Science_Pressure_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Simbol_valuta">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.sistem_bilangan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.square_meter_500977">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.square_meter_5009771">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.System_Binary_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.System_Binary_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.System_Binary_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Tangga_Konversi_Satuan_Volume">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.Tangga_Ukuran_Satuan_Luas_dalam_are">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.temperature_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.titik_didik_dan_titik_beku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.uds_1_cc_300p">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.uds_volume_satu_liter_400x300p">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KP_KERJA_PROJEK.My.Resources.Resources.vector_speedometer_hd_vector_metal_png_and_vector_speedometer_png_260_261">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:KP_KERJA_PROJEK.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
